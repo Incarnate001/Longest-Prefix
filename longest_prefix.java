@@ -60,7 +60,7 @@ class longest_prefix
 
         }
 
-        System.out.println("LoNgEsT PrEfIx : " + e + " \uD83D\uDE0A");
+        System.out.println("Longest Prefix : " + e );
 
     }
 
